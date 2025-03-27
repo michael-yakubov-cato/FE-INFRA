@@ -1,0 +1,61 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+	<!-- Purple block (top-left) -->
+	<rect x="0" y="0" width="90" height="90" fill="purple" />
+	<text
+			x="45" y="45"
+			fill="white"
+			font-size="14"
+			text-anchor="middle"
+			alignment-baseline="middle"
+	>
+		Task 1
+	</text>
+
+	<!-- Red block (top-right) -->
+	<rect x="100" y="0" width="90" height="90" fill="red" />
+	<text
+			x="145" y="45"
+			fill="white"
+			font-size="14"
+			text-anchor="middle"
+			alignment-baseline="middle"
+	>
+		Task 2
+	</text>
+
+	<!-- Blue block (bottom-left) -->
+	<rect x="0" y="100" width="90" height="90" fill="blue" />
+	<text
+			x="45" y="145"
+			fill="white"
+			font-size="14"
+			text-anchor="middle"
+			alignment-baseline="middle"
+	>
+		Task 3
+	</text>
+
+	<!-- Yellow block (bottom-right) -->
+	<rect x="100" y="100" width="90" height="90" fill="yellow" />
+	<text
+			x="145" y="145"
+			fill="white"
+			font-size="14"
+			text-anchor="middle"
+			alignment-baseline="middle"
+	>
+		Task 4
+	</text>
+
+	<!-- Green block (center) -->
+	<rect x="45" y="45" width="110" height="110" fill="green" />
+	<text
+			x="100" y="100"
+			fill="white"
+			font-size="14"
+			text-anchor="middle"
+			alignment-baseline="middle"
+	>
+		Task 5
+	</text>
+</svg>
